@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2am-2as9iflqy.js"
+3:I[45678,["$2"],"default"]
+4:"SavedRecipesProvider"
+5:I[99234,["$2"],"$4"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+e:"$Sreact.suspense"
+f:"/_next/static/chunks/1dvt8ilkm_2q4.js"
+10:I[76085,["$2","$f"],"default"]
+11:I[97367,["$2"],"OutletBoundary"]
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2"],"$16"]
+:HL["/_next/static/chunks/1wnc_ldvjnnto.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$e",null,{"fallback":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-14 text-sm text-stone-600 sm:px-8","children":"Cargando recetas..."}],"children":["$","$L10",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/1dvt8ilkm_2q4.js","async":true}]],["$","$L11",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$9"}}]]
+a:[["children",{"s":"recipes","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1wnc_ldvjnnto.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2am-2as9iflqy.js","async":true}]],["$","html",null,{"lang":"es","children":["$","body",null,{"className":"min-h-screen bg-stone-50 text-stone-950 antialiased","children":[["$","$L3",null,{}],["$","$L5",null,{"children":["$","main",null,{"className":"min-h-screen pt-16","children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sazón | Descubre tu próxima receta"}],["$","meta","1",{"name":"description","content":"Encuentra recetas para cocinar algo delicioso cada día."}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$9"}},"a":"$@19","u":"$@1a","b":"g5gQw6VSSVSNRjhfnDoZ5"}
+12:null
+9:300
+1a:true
+9:C
+19:0
+b:"$undefined"
+8:"$undefined"
+18:"$undefined"
+13:"$undefined"

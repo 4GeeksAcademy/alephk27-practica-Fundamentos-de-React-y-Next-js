@@ -1,0 +1,35 @@
+{
+  "name": "alephk27-practica-fundamentos-de-react-y-next",
+  "version": "1.0.0",
+  "description": "Aplicacion de descubrimiento de recetas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4GeeksAcademy/alephk27-practica-Fundamentos-de-React-y-Next-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4GeeksAcademy/alephk27-practica-Fundamentos-de-React-y-Next-js/issues"
+  },
+  "homepage": "https://github.com/4GeeksAcademy/alephk27-practica-Fundamentos-de-React-y-Next-js#readme",
+  "dependencies": {
+    "next": "^16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2"
+  }
+}

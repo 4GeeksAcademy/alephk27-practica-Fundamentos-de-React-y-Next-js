@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/recipes/[id]/page": "/recipes/[id]",
+  "/recipes/page": "/recipes",
+  "/saved/page": "/saved"
+}
